@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Multi-Parameter Network Optimization challenge by Huawei
+- 🔭 I’m currently working on Multi-Parameter Wireless Network Optimization challenge by Huawei
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about Electrical Engineering, Football
 - 📫 How to reach me: murigi.morris.kiguru@gmail.com
