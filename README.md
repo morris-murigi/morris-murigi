@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Multi-Parameter Network Optimization challenge by Huawei
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about Electrical Engineering, Football
+- 📫 How to reach me: murigi.morris.kiguru@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--
 **morris-murigi/morris-murigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
